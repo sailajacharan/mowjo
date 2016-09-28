@@ -1,1 +1,6 @@
 *.suo
+Mowjo.Web/bin
+Mowjo.Web/obj
+.vs
+Mowjo.Web/project.lock.json
+*.user
