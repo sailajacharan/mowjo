@@ -64,3 +64,114 @@ h1 {
     text-align: right;
   }
 }
+
+
+
+.home__drive-image {
+    background-position-y: -40px;
+    background-image: url(/img/description-the-wallpaper-above-is-green-grassland-wallpaper-in.jpg);
+    background-repeat: no-repeat;
+}
+.split-pane-image--right {
+    left: initial;
+    right: 0px;
+}
+
+.split-pane-image {
+    position: absolute;
+    top: 0px;
+    
+    width: 40%;
+    height: 100%;
+    background-size: cover;
+    
+    background-position: center center;
+    
+}
+
+.soft-app-gutter--left, .soft-app-gutter--sides {
+    padding-left: 50px;
+}
+
+.soft-app-gutter--right, .soft-app-gutter--sides {
+    padding-right: 300px;
+}
+
+.soft-huge--bottom, .soft-huge--ends {
+    padding-bottom: 52px;
+}
+
+.soft-huge--ends, .soft-huge--top {
+    padding-top: 52px;
+}
+.soft-large--right, .soft-large--sides {
+    width: 75%;
+}
+.soft-large--bottom, .soft-large--ends {
+    padding-bottom: 40px;
+}
+
+.soft-large--ends, .soft-large--top {
+    padding-top: 40px;
+}
+
+p.lead {
+    font-size: 1.28571rem;
+    line-height: 1.77778;
+}
+
+.flush--bottom, .flush--ends {
+    margin-bottom: 0px;
+}
+
+
+.layout--middle > .layout__item {
+    vertical-align: middle;
+}
+
+.layout--flush > .layout__item {
+    padding-left: 0px;
+}
+
+.layout > .layout__item {
+    padding-left: 30px;
+}
+
+.layout__item {
+    display: inline-block;
+    padding-left: 24px;
+    vertical-align: top;
+    width: 100%;
+}
+.position--relative {
+    position: relative;
+}
+
+.five-tenths, .four-eighths, .one-half, .six-twelfths, .three-sixths, .two-quarters {
+    width: 50%;
+}
+
+.fixed-ratio-image--home-safety {
+    background-position-y: -40px;
+    background-image: url(/img/description-the-wallpaper-above-is-green-grassland-wallpaper-in.jpg);
+    background-repeat: no-repeat;
+}
+
+.fixed-ratio-image {
+    position: absolute;
+    top: 0px;
+    
+    width: 40%;
+    height: 100%;
+    background-size: cover;
+    
+    background-position: center center;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
