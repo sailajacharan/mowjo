@@ -107,3 +107,8 @@ col-md-8{
     font-weight: 500;
 }
 
+.jumbotron {
+ 
+    background-image: url('../img/images (1).jpg');
+    background-size: cover;
+}
